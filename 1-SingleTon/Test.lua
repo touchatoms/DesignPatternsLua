@@ -1,4 +1,4 @@
-require("..functions")
+require(".functions")
 
 
 -- 定义名为 Shape 的基础类  
