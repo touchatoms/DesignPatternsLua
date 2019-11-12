@@ -41,7 +41,7 @@ local c2 = c1.clone()
 c1:print()
 c2:print()
 
---Cocos2d-x 实例
+--Cocos2d-x 应用实例
 --function Node:clone()
 --    local cloneNode = self:createCloneInstance_()
 --
